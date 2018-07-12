@@ -1,0 +1,180 @@
+# IDLE reads several config files to determine user preferences.  This
+# file is the default config file for idle highlight theme settings.
+
+[IDLE Classic]
+normal-foreground= #000000
+normal-background= #ffffff
+keyword-foreground= #ff7700
+keyword-background= #ffffff
+builtin-foreground= #900090
+builtin-background= #ffffff
+comment-foreground= #dd0000
+comment-background= #ffffff
+string-foreground= #00aa00
+string-background= #ffffff
+definition-foreground= #0000ff
+definition-background= #ffffff
+hilite-foreground= #000000
+hilite-background= gray
+break-foreground= black
+break-background= #ffff55
+hit-foreground= #ffffff
+hit-background= #000000
+error-foreground= #000000
+error-background= #ff7777
+#cursor (only foreground can be set, restart IDLE)
+cursor-foreground= black
+#shell window
+stdout-foreground= blue
+stdout-background= #ffffff
+stderr-foreground= red
+stderr-background= #ffffff
+console-foreground= #770000
+console-background= #ffffff
+
+[IDLE New]
+normal-foreground= #000000
+normal-background= #ffffff
+keyword-foreground= #ff7700
+keyword-background= #ffffff
+builtin-foreground= #900090
+builtin-background= #ffffff
+comment-foreground= #dd0000
+comment-background= #ffffff
+string-foreground= #00aa00
+string-background= #ffffff
+definition-foreground= #0000ff
+definition-background= #ffffff
+hilite-foreground= #000000
+hilite-background= gray
+break-foreground= black
+break-background= #ffff55
+hit-foreground= #ffffff
+hit-background= #000000
+error-foreground= #000000
+error-background= #ff7777
+#cursor (only foreground can be set, restart IDLE)
+cursor-foreground= black
+#shell window
+stdout-foreground= blue
+stdout-background= #ffffff
+stderr-foreground= red
+stderr-background= #ffffff
+console-foreground= #770000
+console-background= #ffffff
+
+[IDLE Dark]
+comment-foreground = #dd0000
+console-foreground = #ff4d4d
+error-foreground = #FFFFFF
+hilite-background = #7e7e7e
+string-foreground = #02ff02
+stderr-background = #002240
+stderr-foreground = #ffb3b3
+console-background = #002240
+hit-background = #fbfbfb
+string-background = #002240
+normal-background = #002240
+hilite-foreground = #FFFFFF
+keyword-foreground = #ff8000
+error-background = #c86464
+keyword-background = #002240
+builtin-background = #002240
+break-background = #808000
+builtin-foreground = #ff00ff
+definition-foreground = #5e5eff
+stdout-foreground = #c2d1fa
+definition-background = #002240
+normal-foreground = #FFFFFF
+cursor-foreground = #ffffff
+stdout-background = #002240
+hit-foreground = #002240
+comment-background = #002240
+break-foreground = #FFFFFF
+
+[IDLE Monokai-Alex]
+comment-foreground = #797979
+console-foreground = #00FFFF
+error-foreground = #FF80FF
+hilite-background = #C0C0C0
+string-foreground = #FFFF00
+stderr-background = #2E2E2E
+stderr-foreground = #FF6A6A
+console-background = #2E2E2E
+hit-background = #2E2E2E
+string-background = #2E2E2E
+normal-background = #2E2E2E
+hilite-foreground = #000000
+keyword-foreground = #A6E22E
+error-background = #2E2E2E
+keyword-background = #2E2E2E
+builtin-background = #2E2E2E
+break-background = #FFFF85
+builtin-foreground = #F92672
+definition-foreground = #FF00FF
+stdout-foreground = #FF8000
+definition-background = #2E2E2E
+normal-foreground = #80FFFF
+cursor-foreground = #FFFFFF
+stdout-background = #2E2E2E
+hit-foreground = #002240
+comment-background = #2E2E2E
+break-foreground = #000000
+
+[Obsidian]
+definition-foreground = #678CB1
+error-foreground = #FF0000
+string-background = #293134
+keyword-foreground = #93C763
+normal-foreground = #E0E2E4
+comment-background = #293134
+hit-foreground = #E0E2E4
+builtin-background = #293134
+stdout-foreground = #678CB1
+cursor-foreground = #E0E2E4
+break-background = #293134
+comment-foreground = #66747B
+hilite-background = #2F393C
+hilite-foreground = #E0E2E4
+definition-background = #293134
+stderr-background = #293134
+hit-background = #000000
+console-foreground = #E0E2E4
+normal-background = #293134
+builtin-foreground = #E0E2E4
+stdout-background = #293134
+console-background = #293134
+stderr-foreground = #FB0000
+keyword-background = #293134
+string-foreground = #EC7600
+break-foreground = #E0E2E4
+error-background = #293134
+
+[monokai]
+normal-foreground= #F8F8F2
+normal-background= #272822
+keyword-foreground= #F92672
+keyword-background= #272822
+builtin-foreground= #66D9EF
+builtin-background= #272822
+comment-foreground= #75715E
+comment-background= #272822
+string-foreground= #FD971F
+string-background= #272822
+definition-foreground= #A6E22E
+definition-background= #272822
+hilite-foreground= #F8F8F2
+hilite-background= gray
+break-foreground= black
+break-background= #ffff55
+hit-foreground= #F8F8F2
+hit-background= #171812
+error-foreground= #ff3338
+error-background= #272822
+cursor-foreground= #F8F8F2
+stdout-foreground= #DDDDDD
+stdout-background= #272822
+stderr-foreground= #ff3338
+stderr-background= #272822
+console-foreground= #75715E
+console-background= #272822
